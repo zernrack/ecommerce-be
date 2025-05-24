@@ -1,4 +1,4 @@
-package com.rens.ecommerce_be.infrastructure.database.repository;
+package com.rens.ecommerce_be.infrastructure.database.product.repository;
 
 import com.rens.ecommerce_be.infrastructure.database.product.Product;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
