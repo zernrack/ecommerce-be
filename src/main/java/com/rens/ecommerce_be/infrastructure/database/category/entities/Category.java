@@ -1,4 +1,4 @@
-package com.rens.ecommerce_be.infrastructure.database.category;
+package com.rens.ecommerce_be.infrastructure.database.category.entities;
 
 
 import lombok.AllArgsConstructor;
