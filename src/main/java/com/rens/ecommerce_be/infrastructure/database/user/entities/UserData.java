@@ -15,7 +15,7 @@ import java.util.List;
 @NoArgsConstructor
 @Builder
 @Document(collection = "users")
-public class User {
+public class UserData {
     @Id
     private Long userId;
     private String name;
